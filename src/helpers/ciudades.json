@@ -1,0 +1,22 @@
+[
+  { "ciudad": "Barranquilla", "lat": 10.96854, "lng": -74.78132 },
+  { "ciudad": "Bello", "lat": 6.33732, "lng": -75.55795 },
+  { "ciudad": "Bogotá", "lat": 4.60971, "lng": -74.08175 },
+  { "ciudad": "Bucaramanga", "lat": 7.125, "lng": -73.11895 },
+  { "ciudad": "Cali", "lat": 3.43054, "lng": -76.5199 },
+  { "ciudad": "Cartagena de Indias", "lat": 10.39817, "lng": -75.49328 },
+  { "ciudad": "Cúcuta", "lat": 7.90745, "lng": -72.5049 },
+  { "ciudad": "Ibagué", "lat": 4.43573, "lng": -75.20289 },
+  { "ciudad": "Manizales", "lat": 5.0668, "lng": -75.50684 },
+  { "ciudad": "Medellín", "lat": 6.245, "lng": -75.57151 },
+  { "ciudad": "Montería", "lat": 8.75081, "lng": -75.87823 },
+  { "ciudad": "Neiva", "lat": 2.93001, "lng": -75.27973 },
+  { "ciudad": "Pasto", "lat": 1.21456, "lng": -77.27846 },
+  { "ciudad": "Pereira", "lat": 4.81428, "lng": -75.69488 },
+  { "ciudad": "Popayán", "lat": 2.43823, "lng": -76.61316 },
+  { "ciudad": "Santa Marta", "lat": 11.23855, "lng": -74.19427 },
+  { "ciudad": "Soacha", "lat": 4.57937, "lng": -74.21682 },
+  { "ciudad": "Soledad", "lat": 10.91843, "lng": -74.76459 },
+  { "ciudad": "Valledupar", "lat": 10.46538, "lng": -73.2531 },
+  { "ciudad": "Villavicencio", "lat": 4.13238, "lng": -73.62564 }
+]
